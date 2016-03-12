@@ -1,0 +1,46 @@
+1.1
+# gwöhnliche
+# Afangswertaufgaben
+# ohne Pivotierung berechnet werden können. >> Plural?
+
+1.2
+# Wohlgestellheit
+# sicher gestellt >> muss zusammen
+# vor "eine Lösung von (1.2.1)." >> wieso C und C^1 von I abgeschlossen - doppelt
+# Dann ist p(xquer)(**)^2. > ** >> ist >=
+# Damit folgt nun >> muss: alpha^2 * |G| * q_
+# Satz 1.3: >> s.o.: C und C^1 - doppelt
+# Die Cauchy-Schwarze Ungleichung >> entweder Schwarzsche oder Schwarz
+# Satz 1.9 >> kein C in der Gleichung vorhanden (ersetze (b-a) durch C)
+# Beweis von Satz 1.9: Cauchy-Schwarze-Ungleichung >> Schwarz oder Schwarzsche und eigentlich vor Ungleichung kein Bindestrich mehr
+
+1.3
+# Beweis von 1.11: x^T A x >> x sollte x_h sein
+# Beweis von 1.14: Punkt 2: erste Ungleichung gilt nur mit Betraegen (TOCHECK)
+
+1.4.1
+# Im Folgenden bezeichnet T ein Element aus des Gitters. >> "des" statt "aus des"
+# In diesem speziellen Fall eine symmetischen und positiv definiten Bandmatrix mit Bandbreite 1 >> einer symm. u. pos...
+
+1.4.2
+# Beweis von 1.18: ...ist die Funtion...
+# Beweis von 1.19, zwischen "und damit" und "Insgesamt ergibt sich so zusammen mit Lemma 1.18" >> Die Ungleichng gilt mit dem inneren Integral ueber |(u-I_hu)'(s)|^2 (nicht ^1)
+# Formulierung von 1.20: "...C^2(I), Dann gilt" >> Dann klein oder Punkt statt Komma
+# Beweis von 1.24: Durch kürzen und Anwenden von Satz 1.21 ergibt sich >> Kürzen
+# Beweis von 1.26: c(x) ist mit I_hu(u) definiert >> soll wohl I_hu(x) heissen
+# vor 1.27: das die Maximumsnorm- mit >> Bindestrich fehl am Platz
+# Beweis von 1.27: bei max{phi_i-1, phi_i} sollten die phi's in Betraege
+# Beweis von 1.27: Letzte Ungleichung des Beweises, beim Bruch 36*Ny^2/h ist das Quadrat zu viel
+# Beweis von 1.30: Lemma 1.27 arbeitet mit der Wurzel von Ny. Da Ny positiv ist, ist das aber OK
+# Beweis von 1.30, letzte Zeile: Satz 1.24 liefert eine Abschaetzung mit f und nicht u''. Da in dem Beweis von 1.24 jedoch 1.21 benutzt wurde und der eine Abschaetzung auch mit u'' liefert, ist es prinzipiell nicht verkehrt.
+
+1.4.3
+# Definition von a-Schlange >> es ist eta_j nicht eta_i
+# Unter Interpolation der Daten und exakte Integration >> wird b_i-Schlange nicht u.a. ueber phi_i (mit Index) integriert?
+# TOCHECK: unter Interpolation der Daten und exakten Integration: erste Ungleichung (Abschaetzung mit Maximumsnorm) | ebenso die erste Ungleichung von (f,.)-l(.)
+
+
+
+
+Fragen:
+# zu 1.21: Die C's in der Aussage sind unterschiedliche, oder? Wenn ja, ist das gewollt, dass man es dort nicht kennzeichnet? Im Beweis in einer Ungleichungskette nicht jede Konstante neu zu benennen, ergibt Sinn, aber das verwirrt meiner Meinung nach stark und kann zum isolierten Betrachten der hinteren Gleichung und Kuerzen von C*h verleiten...

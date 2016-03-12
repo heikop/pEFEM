@@ -1,0 +1,1 @@
+Seite 37, Beweis 1.36: Unter "Insgesamt ergibt sich so mit der CSU", letzte Gleichung? Idee: Weil f fest gewaehlt -> in Konstante mit einbeziehen?
