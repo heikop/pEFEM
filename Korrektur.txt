@@ -40,6 +40,11 @@
 # TOCHECK: unter Interpolation der Daten und exakten Integration: erste Ungleichung (Abschaetzung mit Maximumsnorm) | ebenso die erste Ungleichung von (f,.)-l(.)
 
 
+--------------------------
+
+Seite 42, oben: Weiterhin heißt es ... konform sonst nicht konform. (Komma oder "und" einfügen?)
+Seite 50, vor Def 2.4: Die Grundlage der folgenen... -> komischer Satz
+Seite 50: Def.2.4: L^p=.../N -> N^p, oder?
 
 
 Fragen:

@@ -1,1 +1,5 @@
 Seite 37, Beweis 1.36: Unter "Insgesamt ergibt sich so mit der CSU", letzte Gleichung? Idee: Weil f fest gewaehlt -> in Konstante mit einbeziehen?
+Seite 42: a(u-uh,u-uh)=a(u-uh,u-phih) -> wieso gilt das?
+Seite 48: Bei W_k, wieso P_r-1(I_n-1)?
+Seite 54, Bem 2.22: nur vorgegeben oder = 0?
+Seite 54, Satz 2.24: was ist d?
